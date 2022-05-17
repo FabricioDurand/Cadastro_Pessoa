@@ -1,0 +1,10 @@
+D:\Projects\Random\Stand by\BemPromotora\TeleGestaoAPI\Utils\bin\Debug\netcoreapp3.1\Utils.deps.json
+D:\Projects\Random\Stand by\BemPromotora\TeleGestaoAPI\Utils\bin\Debug\netcoreapp3.1\Utils.dll
+D:\Projects\Random\Stand by\BemPromotora\TeleGestaoAPI\Utils\bin\Debug\netcoreapp3.1\Utils.pdb
+D:\Projects\Random\Stand by\BemPromotora\TeleGestaoAPI\Utils\obj\Debug\netcoreapp3.1\Utils.csproj.AssemblyReference.cache
+D:\Projects\Random\Stand by\BemPromotora\TeleGestaoAPI\Utils\obj\Debug\netcoreapp3.1\Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Random\Stand by\BemPromotora\TeleGestaoAPI\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfoInputs.cache
+D:\Projects\Random\Stand by\BemPromotora\TeleGestaoAPI\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfo.cs
+D:\Projects\Random\Stand by\BemPromotora\TeleGestaoAPI\Utils\obj\Debug\netcoreapp3.1\Utils.csproj.CoreCompileInputs.cache
+D:\Projects\Random\Stand by\BemPromotora\TeleGestaoAPI\Utils\obj\Debug\netcoreapp3.1\Utils.dll
+D:\Projects\Random\Stand by\BemPromotora\TeleGestaoAPI\Utils\obj\Debug\netcoreapp3.1\Utils.pdb

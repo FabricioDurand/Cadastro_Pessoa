@@ -1,0 +1,13 @@
+D:\Projects\Random\Stand by\BemPromotora\TeleGestaoAPI\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Projects\Random\Stand by\BemPromotora\TeleGestaoAPI\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Projects\Random\Stand by\BemPromotora\TeleGestaoAPI\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Projects\Random\Stand by\BemPromotora\TeleGestaoAPI\Domain\bin\Debug\netcoreapp3.1\Infra.dll
+D:\Projects\Random\Stand by\BemPromotora\TeleGestaoAPI\Domain\bin\Debug\netcoreapp3.1\Infra.pdb
+D:\Projects\Random\Stand by\BemPromotora\TeleGestaoAPI\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+D:\Projects\Random\Stand by\BemPromotora\TeleGestaoAPI\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Random\Stand by\BemPromotora\TeleGestaoAPI\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Projects\Random\Stand by\BemPromotora\TeleGestaoAPI\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Projects\Random\Stand by\BemPromotora\TeleGestaoAPI\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Random\Stand by\BemPromotora\TeleGestaoAPI\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CopyComplete
+D:\Projects\Random\Stand by\BemPromotora\TeleGestaoAPI\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Projects\Random\Stand by\BemPromotora\TeleGestaoAPI\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
