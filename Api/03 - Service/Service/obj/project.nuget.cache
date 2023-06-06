@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BJsLrI87gZL6QwS9p5kvgTquyA7wD1jDk5zhfR7amWnxOh8/4ljorC3Q0rvplJktp9BGsNVffdrsnZYUMFxh0w==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\GitHub\\React JS - C# - Cadastro_Pessoa\\Api\\03 - Service\\Service\\Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fabricio\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
+    "C:\\Users\\Fabricio\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.4.0\\fluentvalidation.aspnetcore.10.4.0.nupkg.sha512",
+    "C:\\Users\\Fabricio\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.4.0\\fluentvalidation.dependencyinjectionextensions.10.4.0.nupkg.sha512",
+    "C:\\Users\\Fabricio\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

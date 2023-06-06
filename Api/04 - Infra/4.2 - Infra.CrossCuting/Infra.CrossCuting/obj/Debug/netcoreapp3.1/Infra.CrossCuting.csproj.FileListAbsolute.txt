@@ -1,0 +1,30 @@
+D:\Projects\API_Base\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\bin\Debug\netcoreapp3.1\Infra.CrossCuting.deps.json
+D:\Projects\API_Base\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\bin\Debug\netcoreapp3.1\Infra.CrossCuting.dll
+D:\Projects\API_Base\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\bin\Debug\netcoreapp3.1\Infra.CrossCuting.pdb
+D:\Projects\API_Base\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\obj\Debug\netcoreapp3.1\Infra.CrossCuting.csproj.AssemblyReference.cache
+D:\Projects\API_Base\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\obj\Debug\netcoreapp3.1\Infra.CrossCuting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\API_Base\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\obj\Debug\netcoreapp3.1\Infra.CrossCuting.AssemblyInfoInputs.cache
+D:\Projects\API_Base\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\obj\Debug\netcoreapp3.1\Infra.CrossCuting.AssemblyInfo.cs
+D:\Projects\API_Base\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\obj\Debug\netcoreapp3.1\Infra.CrossCuting.csproj.CoreCompileInputs.cache
+D:\Projects\API_Base\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\obj\Debug\netcoreapp3.1\Infra.CrossCuting.dll
+D:\Projects\API_Base\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\obj\Debug\netcoreapp3.1\Infra.CrossCuting.pdb
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\bin\Debug\netcoreapp3.1\Infra.CrossCuting.deps.json
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\bin\Debug\netcoreapp3.1\Infra.CrossCuting.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\bin\Debug\netcoreapp3.1\Infra.CrossCuting.pdb
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\obj\Debug\netcoreapp3.1\Infra.CrossCuting.csproj.AssemblyReference.cache
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\obj\Debug\netcoreapp3.1\Infra.CrossCuting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\obj\Debug\netcoreapp3.1\Infra.CrossCuting.AssemblyInfoInputs.cache
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\obj\Debug\netcoreapp3.1\Infra.CrossCuting.AssemblyInfo.cs
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\obj\Debug\netcoreapp3.1\Infra.CrossCuting.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\obj\Debug\netcoreapp3.1\Infra.CrossCuting.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\obj\Debug\netcoreapp3.1\Infra.CrossCuting.pdb
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\bin\Debug\netcoreapp3.1\Infra.CrossCuting.deps.json
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\bin\Debug\netcoreapp3.1\Infra.CrossCuting.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\bin\Debug\netcoreapp3.1\Infra.CrossCuting.pdb
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\obj\Debug\netcoreapp3.1\Infra.CrossCuting.csproj.AssemblyReference.cache
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\obj\Debug\netcoreapp3.1\Infra.CrossCuting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\obj\Debug\netcoreapp3.1\Infra.CrossCuting.AssemblyInfoInputs.cache
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\obj\Debug\netcoreapp3.1\Infra.CrossCuting.AssemblyInfo.cs
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\obj\Debug\netcoreapp3.1\Infra.CrossCuting.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\obj\Debug\netcoreapp3.1\Infra.CrossCuting.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\04 - Infra\4.2 - Infra.CrossCuting\Infra.CrossCuting\obj\Debug\netcoreapp3.1\Infra.CrossCuting.pdb

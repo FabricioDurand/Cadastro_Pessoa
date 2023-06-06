@@ -1,0 +1,216 @@
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\libman.json
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.exe
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Infra.Data.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Service.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Projects\API_Base\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+D:\Projects\API_Base\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\API_Base\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\Projects\API_Base\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\Projects\API_Base\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\Projects\API_Base\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\API_Base\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\API_Base\01 - Applitation\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.Manifest.cache
+D:\Projects\API_Base\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cache
+D:\Projects\API_Base\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\Projects\API_Base\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\Projects\API_Base\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.pdb
+D:\Projects\API_Base\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projects\API_Base\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\libman.json
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.exe
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Infra.Data.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Service.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.Manifest.cache
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cache
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.pdb
+D:\Projects\GitHub\.Net\API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\libman.json
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.exe
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Infra.Data.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Service.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.Manifest.cache
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cache
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.pdb
+D:\Projects\GitHub\C# - API_Base_CSharp-MySql\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\libman.json
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.exe
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Application.pdb
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Infra.Data.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Service.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.Manifest.cache
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cache
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.dll
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.pdb
+D:\Projects\GitHub\React JS - C# - Cadastro_Pessoa\Api\01 - Applitation\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache
